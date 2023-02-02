@@ -29,7 +29,6 @@ const Index = () => (
             type: 'image/png',
           },
         ],
-        siteName: 'Stockholm Snakes - Strank',
       }}
     />
     <div
